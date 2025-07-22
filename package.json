@@ -1,6 +1,6 @@
 {
-  "name": "own_package",
-  "version": "1.0.0",
+  "name": "own-package-arvindk",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

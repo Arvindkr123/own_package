@@ -5,7 +5,7 @@ export default defineConfig({
     output: {
         dir: 'dist',
         format: 'es',
-        name: 'own-package'
+        name: 'own-package-arvindk'
     },
     external: ['react', 'react-dom'],
     plugins: [typescript({tsconfig:'tsconfig.json'})]
