@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "esnext",
+    "declaration": true,
+    "declarationDir": "dist",
+    "strict": true,
+    "jsx": "react-jsx"
+  }
+}
